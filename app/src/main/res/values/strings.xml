@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StartupBootcampHackathon</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="ok">OK</string>
+
+
+</resources>
